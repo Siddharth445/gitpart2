@@ -4,7 +4,6 @@ public class student {
         int age=25;
         String name="Siddharth";
         System.out.println("name"+name);
-        System.out.println(age);
     }
     
 }
